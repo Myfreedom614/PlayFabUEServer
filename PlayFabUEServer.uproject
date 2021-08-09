@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D66A7DD2-4C01-536D-0CD6-A193C5B0A7F5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PlayFabUEServer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "WindowsMoviePlayer",
+			"Enabled": false
+		}
+	]
+}
